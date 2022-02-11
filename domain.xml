@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0"><response><result code="1000"><msg>Command completed successfully</msg></result><resData><ext-domain:lstData xmlns:ext-domain="http://www.heartinternet.co.uk/whapi/ext-domain-2.5"></ext-domain:lstData></resData><trID><clTRID>cff2cad609661333bad93296ecdd60c7</clTRID><svTRID>test-5df217d7-29945-3</svTRID></trID></response></epp>

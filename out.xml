@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0"><command><info><info xmlns="http://www.heartinternet.co.uk/whapi/package-2.2"><id>a3666fd2a3b1092f</id></info></info><extension><info xmlns="http://www.heartinternet.co.uk/whapi/ext-package-2.2"><detail><database>mailbox</database></detail></info><clTRID>bbb5a214d249f7d923e4790fd342ce89</clTRID></extension></command></epp>
